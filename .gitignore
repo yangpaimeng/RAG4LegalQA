@@ -1,0 +1,18 @@
+# 忽略本地模型文件
+models/
+
+# 忽略 Jupyter 自动保存的中间文件
+.ipynb_checkpoints/
+
+# 忽略 Python 缓存文件
+__pycache__/
+*.pyc
+
+# 忽略日志或调试文件
+*.log
+
+# 忽略 Gradio 本地文件
+.gradio
+
+# 临时数据库锁文件
+*.lock
